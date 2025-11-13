@@ -7,6 +7,11 @@ This project is focused on Breath Analysis. It includes code and resources for a
 - Utilities for handling CSV and other data files
 - (Add more features as relevant to your project)
 
+
+## Live Demo
+
+[Try the app on Streamlit Cloud](https://breathscan.streamlit.app/)
+
 ## Getting Started
 
 ### Prerequisites
